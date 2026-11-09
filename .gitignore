@@ -28,7 +28,22 @@ Thumbs.db
 /*deploy*.tar.gz
 
 # Original camera files stay local; the site uses optimized WebP images
-/south-island-journal/public/*.jpeg
-/south-island-journal/public/*.jpg
-/south-island-journal/public/*.JPG
-/south-island-journal/public/*.DNG
+/public/*.jpeg
+/public/*.jpg
+/public/*.JPG
+/public/*.DNG
+/public/*.dng
+/public/DAY*
+*.crdownload
+*.tmp
+
+# Package manager and checkout-local scaffolding
+/.pnp
+.pnp.*
+/.yarn/*
+!/.yarn/patches/
+!/.yarn/plugins/
+!/.yarn/releases/
+!/.yarn/versions/
+/outputs/
+/work/

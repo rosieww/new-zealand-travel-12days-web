@@ -2,14 +2,14 @@
 
 繁體中文的紐西蘭冬季自駕分享網站，包含每日行程、旅行花費、行前準備與旅途心得。
 
-所有網站程式由此 repository 統一管理。`south-island-journal/` 是一般專案資料夾，不是另一個 Git repository。
+所有網站程式位於此 repository 根目錄，由同一個 Git repository 統一管理。
 
 ## 本機預覽
 
 需要 Node.js 22.13 以上版本。
 
 ```powershell
-cd south-island-journal
+cd D:\new-zealand-travel-12days-web
 npm ci
 npm run dev
 ```
@@ -20,16 +20,16 @@ npm run dev
 
 | 檔案 | 內容 |
 | --- | --- |
-| `south-island-journal/app/travel-page.tsx` | 首頁、每日摘要、參考行程、花費說明及頁尾 |
-| `south-island-journal/app/timeline.json` | 每日活動與詳細敘述 |
-| `south-island-journal/app/expenses.json` | 花費項目與原幣金額 |
-| `south-island-journal/app/preparation.tsx` | 行前準備 |
-| `south-island-journal/app/roadside-story.tsx` | 爆胎與道路救援心得 |
-| `south-island-journal/app/globals.css` | 配色、字體與排版 |
+| `app/travel-page.tsx` | 首頁、每日摘要、參考行程、花費說明及頁尾 |
+| `app/timeline.json` | 每日活動與詳細敘述 |
+| `app/expenses.json` | 花費項目與原幣金額 |
+| `app/preparation.tsx` | 行前準備 |
+| `app/roadside-story.tsx` | 爆胎與道路救援心得 |
+| `app/globals.css` | 配色、字體與排版 |
 
 ## 圖片
 
-首頁使用 `south-island-journal/public/hero-glacier.webp`；每日照片使用 `south-island-journal/public/daily/day-01.webp` 至 `day-12.webp`。
+首頁使用 `public/hero-glacier.webp`；每日照片使用 `public/daily/day-01.webp` 至 `day-12.webp`。
 
 原始相機照片留在本機並由 `.gitignore` 排除，避免連同拍攝者、拍攝時間及相機序號等中繼資料公開。網站只需要已整理的 WebP 圖片。
 
