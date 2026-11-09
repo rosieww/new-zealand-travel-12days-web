@@ -1,0 +1,34 @@
+# Local dependencies, builds and preview state
+**/node_modules/
+**/dist/
+**/.next/
+**/.vinext/
+**/.wrangler/
+**/.sites-runtime/
+**/out/
+**/coverage/
+**/next-env.d.ts
+*.tsbuildinfo
+*.log
+
+# Credentials and local settings
+**/.env*
+**/.dev.vars*
+*.pem
+/.agents/
+/.codex/
+.DS_Store
+Thumbs.db
+
+# Private source documents and generated publication bundles
+/trip-source.*
+/cleanup-workspace.ps1
+/*.xlsx
+/*.csv
+/*deploy*.tar.gz
+
+# Original camera files stay local; the site uses optimized WebP images
+/south-island-journal/public/*.jpeg
+/south-island-journal/public/*.jpg
+/south-island-journal/public/*.JPG
+/south-island-journal/public/*.DNG

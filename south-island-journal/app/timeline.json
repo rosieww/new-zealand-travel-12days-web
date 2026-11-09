@@ -1,0 +1,474 @@
+[
+  [
+    {
+      "time": "上午",
+      "title": "奧克蘭入境與轉機",
+      "detail": "直飛奧克蘭後先入境、領行李，再到國內線重新托運，轉往基督城。",
+      "place": "Auckland Airport",
+      "status": "交通"
+    },
+    {
+      "time": "下午",
+      "title": "基督城取車，出發奧馬魯",
+      "detail": "抵達基督城後到機場租車櫃檯辦手續，另外租了雪鏈。離開機場先適應右駕與圓環，再開車約 3.5 小時前往奧馬魯。",
+      "place": "Christchurch Airport → Oamaru",
+      "status": "自駕"
+    },
+    {
+      "time": "傍晚",
+      "title": "New World 採買晚餐",
+      "detail": "抵達奧馬魯先去超市採買，準備第一晚的晚餐。",
+      "place": "New World Oamaru",
+      "status": "採買"
+    },
+    {
+      "time": "晚上",
+      "title": "入住 Oamaru Backpackers",
+      "detail": "第一晚住背包客棧。房間在地下室，當時覺得潮濕、有霉味，除了便宜之外沒有特別喜歡。",
+      "place": "Oamaru Backpackers",
+      "status": "住宿"
+    }
+  ],
+  [
+    {
+      "time": "上午",
+      "title": "Friendly Bay 與維多利亞老街",
+      "detail": "早上繼續留在奧馬魯，先到海灣走走，再逛維多利亞歷史街區。",
+      "place": "Friendly Bay・Oamaru’s Victorian Precinct",
+      "status": "散步"
+    },
+    {
+      "time": "上午",
+      "title": "Star and Garter 早午餐",
+      "detail": "在老街附近吃早午餐，慢慢享受小鎮的步調。",
+      "place": "Star and Garter Restaurant",
+      "status": "餐食"
+    },
+    {
+      "time": "中午",
+      "title": "Oamaru Lookout Point",
+      "detail": "吃完到小鎮制高點看風景，海灣與城鎮一覽無遺，這裡的景色很漂亮。",
+      "place": "Oamaru Lookout Point",
+      "status": "景點"
+    },
+    {
+      "time": "下午",
+      "title": "Moeraki Boulders，接著前往但尼丁",
+      "detail": "離開奧馬魯沿海開往摩拉基圓石，現場剛好有人在表演；之後繼續前往但尼丁。",
+      "place": "Moeraki Boulders → Dunedin",
+      "status": "自駕"
+    },
+    {
+      "time": "下午",
+      "title": "入住 Amross Motel",
+      "detail": "房間乾淨又寬敞，接待人員也熱心介紹但尼丁的景點與活動。",
+      "place": "Amross Motel",
+      "status": "住宿"
+    },
+    {
+      "time": "下午",
+      "title": "先採買，再出發看企鵝",
+      "detail": "擔心看完企鵝回來太晚，先到超市買好食材，再前往皇家信天翁中心。",
+      "place": "PAK’nSAVE Dunedin → Royal Albatross Centre",
+      "status": "採買"
+    },
+    {
+      "time": "傍晚",
+      "title": "途中爆胎，錯過小藍企鵝",
+      "detail": "車子途中撞到路邊石頭而爆胎，沒能參加夜間歸巢體驗。先停在安全處，打電話給租車公司，再等待 AA 道路救援。",
+      "place": "前往皇家信天翁中心途中",
+      "status": "旅途插曲"
+    },
+    {
+      "time": "晚上",
+      "title": "拖吊到機場，再回飯店",
+      "detail": "與租車公司協調，把車拖往但尼丁機場據點。之後搭計程車回飯店，這一段費用比隔天叫的 Uber 高出不少。",
+      "place": "Dunedin Airport → Amross Motel",
+      "status": "道路救援"
+    }
+  ],
+  [
+    {
+      "time": "上午",
+      "title": "搭 Uber 到機場換車",
+      "detail": "一早再次前往但尼丁機場，這次改叫 Uber。租車公司換了一台同型號的車，處理完已接近中午。",
+      "place": "Dunedin Airport",
+      "status": "換車"
+    },
+    {
+      "time": "中午",
+      "title": "直接出發蒂阿瑙",
+      "detail": "處理好車子後直接開往蒂阿瑙，把這次來不及逛的但尼丁留給未來。",
+      "place": "Dunedin → Te Anau",
+      "status": "自駕"
+    },
+    {
+      "time": "下午",
+      "title": "入住 ASURE Explorer",
+      "detail": "接待人員幫我們升等房間；浴室重新裝潢過，很新，一樓房門外就是大片草地。",
+      "place": "ASURE Explorer Motel & Apartments",
+      "status": "住宿"
+    },
+    {
+      "time": "傍晚",
+      "title": "蒂阿瑙湖邊走走",
+      "detail": "放好行李後到湖邊散步，風很大、也很冷，但終於能放慢腳步。",
+      "place": "Lake Te Anau",
+      "status": "散步"
+    },
+    {
+      "time": "晚上",
+      "title": "搭船探索螢火蟲洞",
+      "detail": "先搭船約半小時到對岸，跟著導覽進洞，再搭小船看螢火蟲。黑暗中近距離的光點很像星空，結束後喝熱可可，再搭船回去。",
+      "place": "Te Anau Glowworm Caves",
+      "status": "體驗"
+    }
+  ],
+  [
+    {
+      "time": "上午",
+      "title": "Milford Sound 遊船",
+      "detail": "來到路途遙遠的米爾福德峽灣，這次遇上大晴天。搭船看山壁與瀑布，甲板人多時，回程再拍照也不錯。",
+      "place": "Milford Sound",
+      "status": "遊船"
+    },
+    {
+      "time": "中午",
+      "title": "離開峽灣，前往皇后鎮",
+      "detail": "回到停車場後出發皇后鎮，接下來是約 4.5 小時的長途車程。",
+      "place": "Milford Sound → Queenstown",
+      "status": "自駕"
+    },
+    {
+      "time": "下午",
+      "title": "沿途看 Mirror Lakes 與 Eglinton Valley",
+      "detail": "回程沿途有鏡湖與埃格林頓山谷等停靠點。下午光線較背光，冬天天黑也早，沒有花太久時間停留。",
+      "place": "Mirror Lakes・Eglinton Valley",
+      "status": "沿途風景"
+    },
+    {
+      "time": "傍晚",
+      "title": "入住 Garden Court",
+      "detail": "抵達皇后鎮後入住。這間在當地屬中高價位，但房間較舊、細節整理不夠好，下次會想換一間。",
+      "place": "Garden Court Suites & Apartments",
+      "status": "住宿"
+    }
+  ],
+  [
+    {
+      "time": "上午",
+      "title": "Skyline 纜車與 Luge",
+      "detail": "先搭纜車上山，Luge 買三趟，兩條路線各玩過後，最後再挑喜歡的一條。結束前再搭吊椅上去，慢慢走下來看風景。",
+      "place": "Skyline Queenstown",
+      "status": "體驗"
+    },
+    {
+      "time": "中午",
+      "title": "Fergburger 湖邊午餐",
+      "detail": "排隊看起來很長，但大概等十多分鐘就買到了。帶著漢堡到湖邊吃，這次點的口味都很喜歡。(最推薦豬五花跟豆腐！)",
+      "place": "Fergburger・Lake Wakatipu",
+      "status": "餐食"
+    },
+    {
+      "time": "下午",
+      "title": "RealNZ 噴射快艇",
+      "detail": "沿著瓦卡蒂普湖搭約一小時的快艇，能體驗旋轉，也能看遠處的雪山。湖面風很大，當時覺得戴帽子很重要。",
+      "place": "Lake Wakatipu・RealNZ",
+      "status": "體驗"
+    },
+    {
+      "time": "下午",
+      "title": "回到市區逛街",
+      "detail": "快艇結束後在皇后鎮走走、逛逛街，再準備接續晚上的泡湯行程。",
+      "place": "Queenstown",
+      "status": "逛街"
+    },
+    {
+      "time": "晚上",
+      "title": "Onsen Hot Pools",
+      "detail": "搭預約提供的免費接駁車前往熱池。戶外空間有淋浴區和浴池，雖然價格不低，但冬天泡熱水真的很舒服。",
+      "place": "Onsen Hot Pools",
+      "status": "泡湯"
+    }
+  ],
+  [
+    {
+      "time": "上午",
+      "title": "格林諾奇半日遊",
+      "detail": "參加景點通票裡的半日團，當天只有三位旅客。導遊一路介紹，天氣不好，戶外野餐也改在咖啡廳用餐。",
+      "place": "Glenorchy",
+      "status": "半日遊"
+    },
+    {
+      "time": "上午",
+      "title": "天堂公路遇見牛群",
+      "detail": "吃飽繼續前往天堂公路，最難忘的是一群牛站在馬路中間，車子只能慢慢靠近、等牠們讓路。",
+      "place": "Paradise Road",
+      "status": "沿途風景"
+    },
+    {
+      "time": "中午",
+      "title": "Fergbaker 的派與 Patagonia 冰淇淋",
+      "detail": "半日團回到皇后鎮後，買派吃午餐，再去吃巧克力店的冰淇淋；冰淇淋甜度很高。",
+      "place": "Fergbaker・Patagonia Chocolates",
+      "status": "餐食"
+    },
+    {
+      "time": "下午",
+      "title": "夜滑取消，改成湖邊發呆",
+      "detail": "Coronet Peak 夜滑因天氣取消，雪票和接駁車費用可以退款。於是改成市區逛街、湖邊休息，也順便補買魚油。",
+      "place": "Queenstown・Lake Wakatipu",
+      "status": "旅途插曲"
+    },
+    {
+      "time": "晚上",
+      "title": "再吃一次 Fergburger",
+      "detail": "晚餐決定再訪，不留遺憾。不過這次點的雞肉口味，覺得比前一天普通一些。",
+      "place": "Fergburger",
+      "status": "餐食"
+    }
+  ],
+  [
+    {
+      "time": "上午",
+      "title": "下雨的鹿園高地",
+      "detail": "先到 Deer Park Heights，短暫看見彩虹後就下起暴雨。到處泥濘，餵動物也不方便，這趟覺得好天氣再來會比較適合。",
+      "place": "Deer Park Heights Queenstown",
+      "status": "景點"
+    },
+    {
+      "time": "中午",
+      "title": "沿 6 號公路前往瓦納卡",
+      "detail": "離開皇后鎮前往瓦納卡。這段路線可順道經過箭鎮與 Cromwell 巨大水果雕像。",
+      "place": "State Highway 6・Arrowtown・Cromwell",
+      "status": "自駕"
+    },
+    {
+      "time": "下午",
+      "title": "入住 The Moorings 湖景房",
+      "detail": "房間寬敞乾淨、湖景漂亮，是這趟很喜歡的住宿。使用浴缸後連續洗澡，曾遇到熱水不足。",
+      "place": "The Moorings Wanaka",
+      "status": "住宿"
+    },
+    {
+      "time": "下午",
+      "title": "湖邊散步，看孤獨的樹",
+      "detail": "天氣不佳，就不走健行步道，改成沿湖走走，看看水中的 That Wānaka Tree。",
+      "place": "That Wānaka Tree",
+      "status": "散步"
+    },
+    {
+      "time": "傍晚",
+      "title": "雪具留到隔天租",
+      "detail": "當天 Cardrona 沒開，擔心隔天也停業會白租雪具，於是決定等明天確定能滑，再直接到雪場租借。",
+      "place": "Wānaka",
+      "status": "滑雪準備"
+    }
+  ],
+  [
+    {
+      "time": "上午",
+      "title": "搭接駁車前往 Cardrona",
+      "detail": "上車點離住宿步行約五分鐘，搭事先預訂的接駁車往返雪場，省去自己開車上山的壓力。",
+      "place": "Wānaka → Cardrona Alpine Resort",
+      "status": "接駁"
+    },
+    {
+      "time": "上午",
+      "title": "雪場租雪具，先到初學區暖身",
+      "detail": "到雪場現場租借雪具，先在 beginner 區與魔毯熟悉，再搭纜車上山。當天天氣不好，只有部分纜車與雪道開放。",
+      "place": "Cardrona Alpine Resort",
+      "status": "滑雪"
+    },
+    {
+      "time": "中午",
+      "title": "雪場午餐",
+      "detail": "自選餐份量很大，兩個人一起吃也足夠；牛肉尤其留下好印象，甚至覺得比晚餐的牛肉更好吃。",
+      "place": "Cardrona Alpine Resort",
+      "status": "餐食"
+    },
+    {
+      "time": "下午",
+      "title": "繼續滑雪，搭接駁回市區",
+      "detail": "在當天開放的雪道活動，結束後搭接駁車回瓦納卡。",
+      "place": "Cardrona → Wānaka",
+      "status": "滑雪"
+    },
+    {
+      "time": "晚上",
+      "title": "Kai Kikokiko 慢燉牛腩",
+      "detail": "牛腩嫩、調味不錯，薯條也好吃。一份的份量很大，兩人分享剛剛好。",
+      "place": "Kai Kikokiko – Slow Cooked Meats",
+      "status": "餐食"
+    }
+  ],
+  [
+    {
+      "time": "上午",
+      "title": "冰川健行取消，出發庫克山",
+      "detail": "一早收到直升機冰川健行因天氣取消的通知，前往庫克山的部分路段也封閉。先在現場等待，通行後才繼續前進。",
+      "place": "Wānaka → Aoraki / Mount Cook",
+      "status": "旅途插曲"
+    },
+    {
+      "time": "中午",
+      "title": "雪地路段與高地鄉村鮭魚",
+      "detail": "道路開通後，兩旁都是積雪，這段開得很緊張。途中停高地鄉村鮭魚吃壽司，覺得普通，下次會想直接選生魚片。",
+      "place": "High Country Salmon",
+      "status": "沿途停留"
+    },
+    {
+      "time": "下午",
+      "title": "入住隱士飯店",
+      "detail": "房間與浴室感覺有翻新過，窗外就是大大的雪山。這一晚雖然貴，但景色真的很美。",
+      "place": "The Hermitage Hotel",
+      "status": "住宿"
+    },
+    {
+      "time": "下午",
+      "title": "Hooker Valley Track",
+      "detail": "從飯店出發走步道，抵達主要入口前還要走一段。當時第二座吊橋維修，我們走到第一座就折返。",
+      "place": "Hooker Valley Track",
+      "status": "健行"
+    },
+    {
+      "time": "傍晚",
+      "title": "看雪山透出的夕陽",
+      "detail": "步道途中遇見從雪山後透出的夕陽，成了這一天很喜歡的畫面。",
+      "place": "Aoraki / Mount Cook",
+      "status": "看風景"
+    },
+    {
+      "time": "晚上",
+      "title": "隱士飯店自助晚餐",
+      "detail": "晚餐在飯店吃自助吧，菜色蠻豐盛，也沒有想像中不好吃，剛好換換連日自煮的口味。",
+      "place": "The Hermitage Hotel",
+      "status": "餐食"
+    }
+  ],
+  [
+    {
+      "time": "上午",
+      "title": "飯店早餐",
+      "detail": "在隱士飯店吃早餐，覺得選擇不錯，該有的都有，吃飽後再出發走步道。",
+      "place": "The Hermitage Hotel",
+      "status": "餐食"
+    },
+    {
+      "time": "上午",
+      "title": "Tasman Glacier 冰川步道",
+      "detail": "離開飯店後，走了兩條 Tasman Glacier 周邊的步道路線，看看冰川地形與山景。",
+      "place": "Tasman Glacier",
+      "status": "健行"
+    },
+    {
+      "time": "中午",
+      "title": "沿普卡基湖前往蒂卡波",
+      "detail": "沿著牛奶藍的普卡基湖開往蒂卡波，一路風景很美；停車拍照時仍要注意路況與停靠位置。",
+      "place": "Lake Pukaki → Lake Tekapo",
+      "status": "自駕"
+    },
+    {
+      "time": "中午",
+      "title": "順路買庫克山鮭魚",
+      "detail": "途中買鮭魚，肉質新鮮好吃，是這段路程很喜歡的一站。",
+      "place": "Mt Cook Alpine Salmon",
+      "status": "餐食"
+    },
+    {
+      "time": "下午",
+      "title": "超市採買，湖邊走走",
+      "detail": "到蒂卡波先買晚餐食材，超市旁還有小公園，再到湖邊散步、慢慢看風景。",
+      "place": "Lake Tekapo",
+      "status": "採買與散步"
+    },
+    {
+      "time": "傍晚",
+      "title": "入住 Mantra Lake Tekapo",
+      "detail": "住宿空間很大，但屋內有一股味道，廚具也不太乾淨，這間沒有特別喜歡。",
+      "place": "Mantra Lake Tekapo",
+      "status": "住宿"
+    },
+    {
+      "time": "晚上",
+      "title": "好牧羊人教堂看星星",
+      "detail": "晚上到教堂附近觀星，肉眼就能看到銀河，意外地很震撼。當時風大，輕便腳架不夠穩，照片有些模糊。",
+      "place": "Church of the Good Shepherd",
+      "status": "觀星"
+    }
+  ],
+  [
+    {
+      "time": "上午",
+      "title": "再訪白天的好牧羊人教堂",
+      "detail": "昨晚看過星空，早上再來看白天的教堂與蒂卡波湖景。",
+      "place": "Church of the Good Shepherd",
+      "status": "景點"
+    },
+    {
+      "time": "上午",
+      "title": "Aotea Gifts 買伴手禮",
+      "detail": "店裡的紀念品種類很齊，店員親切，還聊了幾句。這趟沒有另外比價，純粹分享購物經驗。",
+      "place": "Aotea Gifts Tekapo",
+      "status": "採買"
+    },
+    {
+      "time": "中午",
+      "title": "Fairlie Bakehouse 鮭魚培根派",
+      "detail": "前往基督城途中在 Fairlie 停留，這家的鮭魚培根派是這趟南島吃到最喜歡的派。",
+      "place": "Fairlie Bakehouse",
+      "status": "餐食"
+    },
+    {
+      "time": "下午",
+      "title": "回到基督城還車",
+      "detail": "吃完派繼續開回基督城，完成還車，為隔天一早的班機做準備。",
+      "place": "Christchurch",
+      "status": "還車"
+    },
+    {
+      "time": "傍晚",
+      "title": "入住機場附近的 LyLo",
+      "detail": "選擇住在機場附近，隔天趕早班機比較方便。",
+      "place": "LyLo Christchurch",
+      "status": "住宿"
+    },
+    {
+      "time": "傍晚",
+      "title": "最後一輪超市採買",
+      "detail": "住宿附近就有超市，趁最後一晚補買伴手禮。",
+      "place": "Woolworths Christchurch Airport",
+      "status": "採買"
+    },
+    {
+      "time": "晚上",
+      "title": "機場附近吃麥當勞",
+      "detail": "晚餐吃麥當勞，意外發現這裡還有漂浮系列飲料，忍不住懷念台灣以前的漂浮雪碧。",
+      "place": "McDonald’s Christchurch Airport",
+      "status": "餐食"
+    }
+  ],
+  [
+    {
+      "time": "上午",
+      "title": "基督城出發，經奧克蘭轉機",
+      "detail": "一早離開基督城，搭機到奧克蘭轉乘回台灣的航班，結束這趟南島自駕。",
+      "place": "Christchurch → Auckland",
+      "status": "返程"
+    },
+    {
+      "time": "上午",
+      "title": "空中沙發，讓長途飛行好睡一點",
+      "detail": "回程加價升級紐航空中沙發，第一次在經濟艙躺著休息。兩個人一起躺仍要調整姿勢，搭配眼罩和耳塞，這次終於睡得著。",
+      "place": "Air New Zealand Skycouch",
+      "status": "飛行心得"
+    },
+    {
+      "time": "傍晚",
+      "title": "抵達桃園，帶著下一次的清單回家",
+      "detail": "有風雨、有遺憾，也有很多值得收藏的畫面。這次沒完成的體驗，就留給未來再次回到紐西蘭。",
+      "place": "桃園國際機場",
+      "status": "回家"
+    }
+  ]
+]
