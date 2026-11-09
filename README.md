@@ -2,6 +2,8 @@
 
 繁體中文的紐西蘭冬季自駕分享網站，包含每日行程、旅行花費、行前準備與旅途心得。
 
+網站連結：[向南，去紐西蘭｜南島 12 天旅記](https://rosieww.github.io/new-zealand-travel-12days-web/)
+
 所有網站程式位於此 repository 根目錄，由同一個 Git repository 統一管理。
 
 ## 本機預覽
@@ -35,4 +37,8 @@ npm run dev
 
 ## 公開與發布
 
-原始記帳文件、舊發布封存檔、一次性修改程式及本機開發快取不納入 repository。線上網站的發布與 GitHub 原始碼推送是兩個步驟；更新 GitHub 不會自動更新既有 Sites 網站。
+原始記帳文件、舊發布封存檔、一次性修改程式及本機開發快取不納入 repository。
+
+推送至 `main` 後，GitHub Actions 會自動建置並部署至 GitHub Pages。手動建置可執行 `npm run build:pages`，輸出位於 `dist/pages`；僅打包網站需要的 WebP 圖片與圖示，不複製原始相機照片。
+
+原本的 Sites 網站獨立發布，不受 GitHub Pages 部署影響。
