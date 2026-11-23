@@ -17,7 +17,7 @@ export default defineConfig({
       name: "publish-approved-images-only",
       closeBundle() {
         cpSync(path.join(projectRoot, "public/daily"), path.join(output, "daily"), { recursive: true });
-        for (const file of ["hero-glacier.webp", "favicon.svg"]) {
+        for (const file of ["hero-glacier.webp", "favicon.svg", "south-island-route.png"]) {
           copyFileSync(path.join(projectRoot, "public", file), path.join(output, file));
         }
         writeFileSync(path.join(output, ".nojekyll"), "");

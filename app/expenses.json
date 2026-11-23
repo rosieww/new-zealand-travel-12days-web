@@ -49,9 +49,9 @@
   },
   {
     "category": "門票",
-    "item": "Coronet Peak (夜滑雪票+接駁車)",
-    "twd": 82.7366995,
-    "nzd": 4.55
+    "item": "Coronet Peak (夜滑雪票+接駁車)（取消）",
+    "twd": 0,
+    "nzd": null
   },
   {
     "category": "住宿",
@@ -74,7 +74,7 @@
   {
     "category": "其他",
     "item": "NZeTA",
-    "twd": 2100.0,
+    "twd": 4200.0,
     "nzd": null
   },
   {
@@ -206,7 +206,7 @@
   {
     "category": "交通",
     "item": "道路救援費用（已申請保險）",
-    "twd": 2655.0,
+    "twd": 0,
     "nzd": null
   },
   {

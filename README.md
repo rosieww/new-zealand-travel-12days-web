@@ -2,43 +2,29 @@
 
 繁體中文的紐西蘭冬季自駕分享網站，包含每日行程、旅行花費、行前準備與旅途心得。
 
-網站連結：[向南，去紐西蘭｜南島 12 天旅記](https://rosieww.github.io/new-zealand-travel-12days-web/)
+適合在手機與電腦瀏覽，路線從基督城出發，經奧馬魯、但尼丁、蒂阿瑙、米爾福德峽灣、皇后鎮、瓦納卡、庫克山與蒂卡波，最後返回基督城。住宿名稱附 Google Maps 連結，方便查看位置。
 
-所有網站程式位於此 repository 根目錄，由同一個 Git repository 統一管理。
+## 功能
 
-## 本機預覽
+網站分成三個分頁：
 
-需要 Node.js 22.13 以上版本。
-
-```powershell
-cd D:\new-zealand-travel-12days-web
-npm ci
-npm run dev
-```
-
-開啟終端機顯示的本機網址。修改並儲存後，預覽會自動更新。
-
-## 修改內容
-
-| 檔案 | 內容 |
+| 分頁 | 內容 |
 | --- | --- |
-| `app/travel-page.tsx` | 首頁、每日摘要、參考行程、花費說明及頁尾 |
-| `app/timeline.json` | 每日活動與詳細敘述 |
-| `app/expenses.json` | 花費項目與原幣金額 |
-| `app/preparation.tsx` | 行前準備 |
-| `app/roadside-story.tsx` | 爆胎與道路救援心得 |
-| `app/globals.css` | 配色、字體與排版 |
+| 每日行程 | 12 天行程總覽、每日時間軸、住宿與路線圖，以及旅途插曲與道路救援心得 |
+| 花費明細 | 交通、住宿、門票、飲食與其他支出，可切換平均每人及兩人合計；明細固定顯示原始帳目金額 |
+| 行前準備 | 機票、住宿、租車、活動預訂、網路、入境準備與實用工具 |
 
-## 圖片
+## 內容規模
 
-首頁使用 `public/hero-glacier.webp`；每日照片使用 `public/daily/day-01.webp` 至 `day-12.webp`。
+| 項目 | 數量 |
+| --- | --- |
+| 行程天數 | 12 |
+| 住宿晚數 | 11 |
+| 住宿地點 | 8 |
+| 每日活動 | 64 |
+| 花費明細 | 61 筆（含取消與歸零項目，不含購物） |
+| 花費分類 | 5 |
 
-原始相機照片留在本機並由 `.gitignore` 排除，避免連同拍攝者、拍攝時間及相機序號等中繼資料公開。網站只需要已整理的 WebP 圖片。
+## 技術
 
-## 公開與發布
-
-原始記帳文件、舊發布封存檔、一次性修改程式及本機開發快取不納入 repository。
-
-推送至 `main` 後，GitHub Actions 會自動建置並部署至 GitHub Pages。手動建置可執行 `npm run build:pages`，輸出位於 `dist/pages`；僅打包網站需要的 WebP 圖片與圖示，不複製原始相機照片。
-
-原本的 Sites 網站獨立發布，不受 GitHub Pages 部署影響。
+React 19 · TypeScript · Vite 8 · Vinext · Tailwind CSS 4
