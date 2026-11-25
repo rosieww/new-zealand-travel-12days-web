@@ -39,3 +39,5 @@ nav a{padding:8px 0;border-bottom:2px solid transparent}nav a.current{border-col
 
 /* Balance spacing above and below the shared reminder on every tab. */
 .sharing-notice{margin-bottom:0}.intro.intro-with-map,.expense-intro,.preparation{padding-top:28px}@media(max-width:800px){.sharing-notice{margin-bottom:0}.intro.intro-with-map,.expense-intro,.preparation{padding-top:20px}}
+
+.travel-notes{padding-top:28px}.story-link{border:0;border-bottom:1px solid #9da98d;background:transparent;padding:4px 0;margin-top:12px;font-size:15px}.page-tabs>.wrap{display:grid;grid-template-columns:repeat(4,minmax(0,1fr))}.page-tabs button{padding:12px 8px}.page-tabs button small{display:block;margin-left:0}@media(max-width:800px){.travel-notes{padding-top:20px}.page-tabs>.wrap{grid-template-columns:repeat(2,minmax(0,1fr));gap:6px}.page-tabs button{padding:8px 4px;font-size:14px}.page-tabs button small{font-size:11px}}
